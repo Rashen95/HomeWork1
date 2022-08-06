@@ -15,5 +15,5 @@ else
         Console.Write(number + ", ");
         number += 2;
     }
-Console.WriteLine(number);
+    Console.WriteLine(number);
 }
